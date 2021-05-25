@@ -634,6 +634,7 @@
  #contact_section
  {
     flex-direction: column;
+    align-items: center;
     
  }
  
@@ -712,5 +713,17 @@
  }
 
 }
+
+@media only screen and (max-width:400px){
+    .Btn_2
+    {
+     
+     margin-left: 25%;
+    
+    }
+}
+
+
+
 
 /* the ends */
